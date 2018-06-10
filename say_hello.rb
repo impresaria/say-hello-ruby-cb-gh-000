@@ -1,6 +1,6 @@
 # Build your say_hello method here
 # I call on the method, say_hello, and give it the string "Jackie"
-def say_hello
+def say_hello(name)
   say_hello("Jackie")
 end
 
